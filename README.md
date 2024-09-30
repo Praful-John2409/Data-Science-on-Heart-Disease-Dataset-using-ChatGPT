@@ -7,7 +7,7 @@ Welcome to the repository for **Assignment 1**, where I applied data science tec
 This assignment involved the following key tasks:
 - **Dataset Selection**: A popular **Heart Disease** dataset from Kaggle was chosen for analysis.
 - **ChatGPT as Data Science Assistant**: I used ChatGPT's code interpreter to guide me through various stages of data science, from data preprocessing to model building and evaluation.
-- **Report Generation**: A transcript of my interaction with ChatGPT was exported, and a summary of key insights was published in a [Medium article](#medium-article).
+- **Report Generation**: A transcript of my interaction with ChatGPT was exported, and a summary of key insights was published in a [Medium article](https://medium.com/@praful.john2409/predicting-heart-disease-a-data-science-journey-using-crisp-dm-0996d0c96fec).
 - **Documentation**: The responses from ChatGPT were organized into a formal document and included in the project repository.
 
 ## Steps Performed
