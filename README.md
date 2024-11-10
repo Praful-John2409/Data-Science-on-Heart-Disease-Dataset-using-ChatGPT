@@ -25,14 +25,18 @@ The workflow included:
 The entire process was conducted with the help of ChatGPT's code interpreter. The full chat transcript, detailing all questions asked and code snippets provided by ChatGPT, is available in the repository.
 
 ### 3. Medium Article
-A Medium article summarizing the key findings and insights from this project is available [here](#medium-article). This article highlights the use of AI to assist in the data science process.
+A Medium article summarizing the key findings and insights from this project is available [here](https://medium.com/@praful.john2409/predicting-heart-disease-a-data-science-journey-using-crisp-dm-0996d0c96fec). This article highlights the use of AI to assist in the data science process.
 
 ### 4. Report and Screenshots
 Using the **SaveGPT** extension, I exported the entire conversation with ChatGPT to a PDF file, which can be found in the `reports/` folder. Screenshots of important outputs and visualizations were taken using a screenshot extension and incorporated into the Medium article and final report.
 
 ## Medium Article
 
-You can read the full Medium article summarizing this project [here](#medium-link).
+You can read the full Medium article summarizing this project [here](https://medium.com/@praful.john2409/predicting-heart-disease-a-data-science-journey-using-crisp-dm-0996d0c96fec).
+
+## Youtube video
+
+You can watch the youtube video that explains the Colab notebook by clicking [here](https://youtu.be/6GGra1XTrw4)
 
 
 ## Conclusion
